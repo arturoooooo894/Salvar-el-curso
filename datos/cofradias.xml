@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cofradias>
+    <cofradia>
+        <anioFundacion>1700</anioFundacion>
+        <ciudad>Sevilla</ciudad>
+        <nombre>Cofradía del Santo Entierro</nombre>
+        <numeroHermanos>250</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1850</anioFundacion>
+        <ciudad>Córdoba</ciudad>
+        <nombre>Cofradía de la Esperanza</nombre>
+        <numeroHermanos>300</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1595</anioFundacion>
+        <ciudad>Sevilla</ciudad>
+        <nombre>Cofradía de la Macarena</nombre>
+        <numeroHermanos>500</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1800</anioFundacion>
+        <ciudad>Granada</ciudad>
+        <nombre>Cofradía de los Gitanos</nombre>
+        <numeroHermanos>450</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1650</anioFundacion>
+        <ciudad>Málaga</ciudad>
+        <nombre>Cofradía del Silencio</nombre>
+        <numeroHermanos>320</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1725</anioFundacion>
+        <ciudad>Valladolid</ciudad>
+        <nombre>Cofradía de Jesús Nazareno</nombre>
+        <numeroHermanos>400</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1600</anioFundacion>
+        <ciudad>Burgos</ciudad>
+        <nombre>Cofradía de la Soledad</nombre>
+        <numeroHermanos>350</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1942</anioFundacion>
+        <ciudad>Sevilla</ciudad>
+        <nombre>Cofradía de San Gonzalo</nombre>
+        <numeroHermanos>800</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1805</anioFundacion>
+        <ciudad>Murcia</ciudad>
+        <nombre>Cofradía del Cristo del Perdón</nombre>
+        <numeroHermanos>220</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1780</anioFundacion>
+        <ciudad>Zaragoza</ciudad>
+        <nombre>Cofradía de la Pasión</nombre>
+        <numeroHermanos>280</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1900</anioFundacion>
+        <ciudad>Toledo</ciudad>
+        <nombre>Cofradía de la Virgen de la Piedad</nombre>
+        <numeroHermanos>150</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1605</anioFundacion>
+        <ciudad>Sevilla</ciudad>
+        <nombre>Cofradía del Gran Poder</nombre>
+        <numeroHermanos>1000</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1750</anioFundacion>
+        <ciudad>Cádiz</ciudad>
+        <nombre>Cofradía de la Caridad</nombre>
+        <numeroHermanos>270</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1680</anioFundacion>
+        <ciudad>Albacete</ciudad>
+        <nombre>Cofradía del Cristo de la Sangre</nombre>
+        <numeroHermanos>330</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1550</anioFundacion>
+        <ciudad>Salamanca</ciudad>
+        <nombre>Cofradía del Cristo Yacente</nombre>
+        <numeroHermanos>200</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1950</anioFundacion>
+        <ciudad>Madrid</ciudad>
+        <nombre>Cofradía de Nuestra Señora de los Dolores</nombre>
+        <numeroHermanos>500</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1980</anioFundacion>
+        <ciudad>Jaén</ciudad>
+        <nombre>Cofradía de la Santa Cena</nombre>
+        <numeroHermanos>350</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1920</anioFundacion>
+        <ciudad>Huelva</ciudad>
+        <nombre>Cofradía de la Oración en el Huerto</nombre>
+        <numeroHermanos>270</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>1580</anioFundacion>
+        <ciudad>Alicante</ciudad>
+        <nombre>Cofradía de la Santa Faz</nombre>
+        <numeroHermanos>600</numeroHermanos>
+    </cofradia>
+    <cofradia>
+        <anioFundacion>2000</anioFundacion>
+        <ciudad>Barcelona</ciudad>
+        <nombre>Cofradía del Resucitado</nombre>
+        <numeroHermanos>450</numeroHermanos>
+    </cofradia>
+</cofradias>

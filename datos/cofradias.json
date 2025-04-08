@@ -1,0 +1,101 @@
+[ {
+  "nombre" : "Cofradía del Santo Entierro",
+  "anioFundacion" : 1700,
+  "numeroHermanos" : 250,
+  "ciudad" : "Sevilla"
+}, {
+  "nombre" : "Cofradía de la Esperanza",
+  "anioFundacion" : 1850,
+  "numeroHermanos" : 300,
+  "ciudad" : "Córdoba"
+}, {
+  "nombre" : "Cofradía de la Macarena",
+  "anioFundacion" : 1595,
+  "numeroHermanos" : 500,
+  "ciudad" : "Sevilla"
+}, {
+  "nombre" : "Cofradía de los Gitanos",
+  "anioFundacion" : 1800,
+  "numeroHermanos" : 450,
+  "ciudad" : "Granada"
+}, {
+  "nombre" : "Cofradía del Silencio",
+  "anioFundacion" : 1650,
+  "numeroHermanos" : 320,
+  "ciudad" : "Málaga"
+}, {
+  "nombre" : "Cofradía de Jesús Nazareno",
+  "anioFundacion" : 1725,
+  "numeroHermanos" : 400,
+  "ciudad" : "Valladolid"
+}, {
+  "nombre" : "Cofradía de la Soledad",
+  "anioFundacion" : 1600,
+  "numeroHermanos" : 350,
+  "ciudad" : "Burgos"
+}, {
+  "nombre" : "Cofradía de San Gonzalo",
+  "anioFundacion" : 1942,
+  "numeroHermanos" : 800,
+  "ciudad" : "Sevilla"
+}, {
+  "nombre" : "Cofradía del Cristo del Perdón",
+  "anioFundacion" : 1805,
+  "numeroHermanos" : 220,
+  "ciudad" : "Murcia"
+}, {
+  "nombre" : "Cofradía de la Pasión",
+  "anioFundacion" : 1780,
+  "numeroHermanos" : 280,
+  "ciudad" : "Zaragoza"
+}, {
+  "nombre" : "Cofradía de la Virgen de la Piedad",
+  "anioFundacion" : 1900,
+  "numeroHermanos" : 150,
+  "ciudad" : "Toledo"
+}, {
+  "nombre" : "Cofradía del Gran Poder",
+  "anioFundacion" : 1605,
+  "numeroHermanos" : 1000,
+  "ciudad" : "Sevilla"
+}, {
+  "nombre" : "Cofradía de la Caridad",
+  "anioFundacion" : 1750,
+  "numeroHermanos" : 270,
+  "ciudad" : "Cádiz"
+}, {
+  "nombre" : "Cofradía del Cristo de la Sangre",
+  "anioFundacion" : 1680,
+  "numeroHermanos" : 330,
+  "ciudad" : "Albacete"
+}, {
+  "nombre" : "Cofradía del Cristo Yacente",
+  "anioFundacion" : 1550,
+  "numeroHermanos" : 200,
+  "ciudad" : "Salamanca"
+}, {
+  "nombre" : "Cofradía de Nuestra Señora de los Dolores",
+  "anioFundacion" : 1950,
+  "numeroHermanos" : 500,
+  "ciudad" : "Madrid"
+}, {
+  "nombre" : "Cofradía de la Santa Cena",
+  "anioFundacion" : 1980,
+  "numeroHermanos" : 350,
+  "ciudad" : "Jaén"
+}, {
+  "nombre" : "Cofradía de la Oración en el Huerto",
+  "anioFundacion" : 1920,
+  "numeroHermanos" : 270,
+  "ciudad" : "Huelva"
+}, {
+  "nombre" : "Cofradía de la Santa Faz",
+  "anioFundacion" : 1580,
+  "numeroHermanos" : 600,
+  "ciudad" : "Alicante"
+}, {
+  "nombre" : "Cofradía del Resucitado",
+  "anioFundacion" : 2000,
+  "numeroHermanos" : 450,
+  "ciudad" : "Barcelona"
+} ]

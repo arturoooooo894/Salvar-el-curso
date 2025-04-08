@@ -1,0 +1,20 @@
+﻿Nombre:Cofradía del Santo Entierro;Fundación:1700;Hermanos:250;Ciudad:Sevilla
+Nombre:Cofradía de la Esperanza;Fundación:1850;Hermanos:300;Ciudad:Córdoba
+Nombre:Cofradía de la Macarena;Fundación:1595;Hermanos:500;Ciudad:Sevilla
+Nombre:Cofradía de los Gitanos;Fundación:1800;Hermanos:450;Ciudad:Granada
+Nombre:Cofradía del Silencio;Fundación:1650;Hermanos:320;Ciudad:Málaga
+Nombre:Cofradía de Jesús Nazareno;Fundación:1725;Hermanos:400;Ciudad:Valladolid
+Nombre:Cofradía de la Soledad;Fundación:1600;Hermanos:350;Ciudad:Burgos
+Nombre:Cofradía de San Gonzalo;Fundación:1942;Hermanos:800;Ciudad:Sevilla
+Nombre:Cofradía del Cristo del Perdón;Fundación:1805;Hermanos:220;Ciudad:Murcia
+Nombre:Cofradía de la Pasión;Fundación:1780;Hermanos:280;Ciudad:Zaragoza
+Nombre:Cofradía de la Virgen de la Piedad;Fundación:1900;Hermanos:150;Ciudad:Toledo
+Nombre:Cofradía del Gran Poder;Fundación:1605;Hermanos:1000;Ciudad:Sevilla
+Nombre:Cofradía de la Caridad;Fundación:1750;Hermanos:270;Ciudad:Cádiz
+Nombre:Cofradía del Cristo de la Sangre;Fundación:1680;Hermanos:330;Ciudad:Albacete
+Nombre:Cofradía del Cristo Yacente;Fundación:1550;Hermanos:200;Ciudad:Salamanca
+Nombre:Cofradía de Nuestra Señora de los Dolores;Fundación:1950;Hermanos:500;Ciudad:Madrid
+Nombre:Cofradía de la Santa Cena;Fundación:1980;Hermanos:350;Ciudad:Jaén
+Nombre:Cofradía de la Oración en el Huerto;Fundación:1920;Hermanos:270;Ciudad:Huelva
+Nombre:Cofradía de la Santa Faz;Fundación:1580;Hermanos:600;Ciudad:Alicante
+Nombre:Cofradía del Resucitado;Fundación:2000;Hermanos:450;Ciudad:Barcelona
